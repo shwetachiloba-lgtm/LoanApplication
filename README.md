@@ -23,10 +23,10 @@ The Loan Application System is a web-based application developed to simplify and
 🛠️ Tech Stack
 Frontend: HTML.CSS,Bootstrap
 
-Backend:Java (Advanced Java)
+Backend:Java, (Advanced Java)
 
 Frameworks: Spring Boot 
-           Spring Data JPA
+            Spring Data JPA
 
 Database:MySQL
 
@@ -38,6 +38,7 @@ Tools: Eclipse IDE.GitHub
 Project Structure:-
 
 Loan-Application-System/
+
 │
 ├── src/
 │   ├── controller/
