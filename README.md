@@ -20,6 +20,7 @@ The Loan Application System is a web-based application developed to simplify and
 
 
 
+
 🛠️ Tech Stack
 Frontend: HTML.CSS,Bootstrap
 
